@@ -4,7 +4,7 @@
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/coffee/)
 [![erlang](https://img.shields.io/badge/target-erlang-a2003e)]()
 
-*this project is still in pre-alpha and will be released under v1.0.0 once ready for public usage*
+**this project is still in pre-alpha and will be released under v1.0.0 once ready for public usage**
 
 ## Usage
 
