@@ -12,6 +12,8 @@
 gleam add coffee
 ```
 
+## Features
+
 ## Development
 
 ```sh
