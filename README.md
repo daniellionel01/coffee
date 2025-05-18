@@ -25,6 +25,6 @@ gleam test  # Run the tests
 
 ## Future Work
 
-This is a backlog of ideas and things that . Contributions are welcome!
+This is a backlog of ideas and future features. Contributions are welcome!
 
 - [ ] support javascript target
